@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-You can find my curriculum vitae [here](melaurent.github.io/cv.pdf)
+You can find my curriculum vitae [here](http://melaurent.github.io/cv.pdf).
 
 ### More Information
 
