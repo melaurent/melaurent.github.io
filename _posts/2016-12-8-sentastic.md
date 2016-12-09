@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sentastic, Keep them private keys in your head !
+title: Sentastic, keep them private keys in your head !
 ---
 
 I love the idea of mnemonics.
