@@ -113,6 +113,6 @@ adjustment led to a huge increase of the mempool size.
 ### Edit: This happened again on the 31rd
 
 And this time, no difficulty adjustment occured, but the mempool still managed
-to reach 35MB. The transactions can be seen [here](https://blockchain.info/fr/address/16FEW2CboX5hVk3FqxNJ3Wt5StySpu1TZH)
+to reach 35MB. The transactions can be seen [here](https://blockchain.info/fr/address/16FEW2CboX5hVk3FqxNJ3Wt5StySpu1TZH).
 If anyone has any information on what those transfer could be,
 don't hesitate to write a comment !
