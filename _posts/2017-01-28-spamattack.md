@@ -12,7 +12,7 @@ waiting to be confirmed starts to grow very fast.
 This can be observed by looking at the size of the mempool,
 which represents the size of the unconfirmed transactions a node has to keep
 in memory.
-In januray 2017, the size of the mempool started
+In january 2017, the size of the mempool started
 to grow very fast, and people started to speculate why.
 
 The first reason could be that the network was victim of a spam attack.
